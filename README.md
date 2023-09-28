@@ -1,4 +1,4 @@
-# OpenChrom for macOS
+# OpenChrome for macOS
 
 If you want to open Google Chrome from a Python script to a specific URL without using Selenium, you can make use of the subprocess module to execute shell commands. 
 
